@@ -1,0 +1,47 @@
+[33mcommit c3352f3ea8168c17db90be0a30cd74be6249ba99[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: zahrajws <in.zahradamirchilo77@gmail.com>
+Date:   Sat Nov 29 12:04:06 2025 +0330
+
+    update
+
+[33mcommit 0440106d585a4d7e8237bf2a90c8a73b83c40fa3[m
+Author: zahrajws <in.zahradamirchilo77@gmail.com>
+Date:   Sat Nov 29 11:38:58 2025 +0330
+
+    update
+
+[33mcommit afa31a6039a9093f1aa88ef08e7307e5c4f23422[m
+Author: zahrajws <in.zahradamirchilo77@gmail.com>
+Date:   Sat Nov 22 16:59:02 2025 +0330
+
+    Fixed linting.'
+
+[33mcommit 85f627bc905c244e49b4409052c8963e51343913[m
+Author: zahrajws <in.zahradamirchilo77@gmail.com>
+Date:   Sat Nov 22 16:56:19 2025 +0330
+
+    Added GitHub Actions.'
+
+[33mcommit 5919401d0cb93c9838a0dcb14e9568b8d855d0b1[m
+Author: zahrajws <in.zahradamirchilo77@gmail.com>
+Date:   Sat Nov 22 16:50:44 2025 +0330
+
+    Added GitHub Actions.'
+
+[33mcommit 872d483416595fec67edc34277a9546173c9aa1a[m
+Author: zahrajws <in.zahradamirchilo77@gmail.com>
+Date:   Sat Nov 22 16:33:37 2025 +0330
+
+    Added Github Actions.
+
+[33mcommit 5c4a9039f4684c96faa77e98799980027920d2f4[m
+Author: zahrajws <in.zahradamirchilo77@gmail.com>
+Date:   Sat Nov 22 16:15:35 2025 +0330
+
+    added Github Actions.
+
+[33mcommit cb935f388ee71241849d066b01b0cc81f2ce7826[m
+Author: |ZAHRA| <110281085+zahrajws@users.noreply.github.com>
+Date:   Sat Nov 1 09:07:55 2025 +0330
+
+    Initial commit
